@@ -1,4 +1,4 @@
-FROM arm64v8/node:16-alpine
+FROM arm32v7/node:16-alpine
 
 EXPOSE 3000
 
